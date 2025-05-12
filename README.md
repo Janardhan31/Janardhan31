@@ -15,6 +15,9 @@
 
 - ⚡ Fun fact **I believe "Hello World" has more power than it seems. It started it all. 🌍**
 
+![snake gif](https://github.com/Janardhan31/Janardhan31/blob/output/github-snake-dark.svg)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/janardhan kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janardhan kumar" height="30" width="40" /></a>

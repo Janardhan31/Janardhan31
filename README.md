@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Janardhan Kumar!</h1>
 <h3 align="center">🎯 Engineer by Education | Developer by Passion | On a Mission to Learn, Build, and Grow in the World of Tech.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janardhan31&label=Profile%20views&color=0e75b6&style=flat" alt="janardhan31" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janardhan31" alt="janardhan31" /></a> </p>
-
 - 🔭 I’m currently working on **MERN Stack Development**
 
 - 🌱 I’m currently learning **React JS,Node JS**

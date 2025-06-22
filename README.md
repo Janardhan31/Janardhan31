@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Janardhan Kumar!</h1>
 <h3 align="center">🎯 Engineer by Education | Developer by Passion | On a Mission to Learn, Build, and Grow in the World of Tech.</h3>
 
-- 🔭 I’m currently working on **MERN Stack Development**
+- 🔭 I’m currently working on **PLAYING WITH DATA**
 
-- 🌱 I’m currently learning **React JS,Node JS**
+- 🌱 I’m currently learning **DATA Engineering**
 
 - 💬 Ask me about **Apache Kafka**
 

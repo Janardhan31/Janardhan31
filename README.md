@@ -2,9 +2,7 @@
 <h3 align="center">🎯 Engineer by Education | Developer by Passion | On a Mission to Learn, Build, and Grow in the World of Tech.</h3>
 
 - 🔭 I’m currently working on **PLAYING WITH DATA**
-
-- 🌱 I’m currently learning **DATA Engineering**
-
+  
 - 💬 Ask me about **Apache Kafka**
 
 - 📫 How to reach me **Janardhankr2003@gmail.com**

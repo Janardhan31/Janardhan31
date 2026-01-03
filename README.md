@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Janardhankr2003@gmail.com**
 
-- ⚡ Fun fact **I believe "Hello World" has more power than it seems. It started it all. 🌍**
+- ⚡ Fun fact **Behind every smooth dashboard is a well-engineered pipeline**
 
 ![snake gif](https://github.com/Janardhan31/Janardhan31/blob/output/github-snake-dark.svg)
 
